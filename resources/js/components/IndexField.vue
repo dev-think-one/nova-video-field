@@ -4,6 +4,7 @@
       v-if="field.previewUrl"
       class="block"
       controls
+      controlsList="nodownload"
       :src="src"
       :poster="poster"
       :autoplay="autoplay"
