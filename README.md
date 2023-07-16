@@ -13,6 +13,9 @@
 
 This field is extension of File field, so support all [methods](https://nova.laravel.com/docs/4.0/resources/file-fields.html#customizing-file-storage) of file field.
 
+![field-form.png](docs%2Fassets%2Ffield-form.png)
+![field-details.png](docs%2Fassets%2Ffield-details.png)
+
 ## Installation
 
 You can install the package via composer:
